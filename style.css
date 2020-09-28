@@ -12,6 +12,10 @@ html {
 a {
   text-decoration: none;
 }
+hr.rounded {
+  border-top: 8px solid #bbb;
+  border-radius: 5px;
+}
 .container {
   min-height: 100vh;
   width: 100%;
