@@ -381,7 +381,7 @@ p {
   color: white;
 }
 #projects .project-img {
-  flex-basis: 50%;
+  flex-basis: 20%;
   height: 300px;
   overflow: hidden;
   position: relative;
@@ -394,7 +394,7 @@ p {
   height: 100%;
   width: 100%;
   background-image: linear-gradient(60deg, #29323c 0%, #485563 100%);
-  opacity: 0.7;
+  opacity: 0.3;
 }
 #projects .project-img img {
   transition: 0.3s ease transform;
@@ -410,7 +410,7 @@ p {
   text-align: center;
   max-width: 1200px;
   margin: 0 auto;
-  padding: 100px 20px;
+  padding: 100px 150px;
 }
 #about .col-left {
   width: 250px;
